@@ -1,10 +1,11 @@
-<div align="center"> <img src=""> </div>
+<div align="center"> <img src="https://github.com/sarojmishraa/sarojmishraa/blob/main/GITHUB.png"> </div>
 
 
 <h1 align="center">Hi 👋, I'm Saroj Mishra</h1>
 <h3 align="center">a passionate self-taught full-stack web developer, open-source maintainer and contributor.</h3>
+<img align="right" alt="coding........" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarojmishraa&label=Profile%20views&color=0e75b6&style=flat" alt="sarojmishraa" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=sarojmishraa&label=Profile%20views&color=0e75b6&style=flat" alt="sarojmishraa" />
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/sarojmishraaa" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sarojmishraaa?logo=twitter&style=for-the-badge" alt="https://twitter.com/sarojmishraaa" /></a> </p>
 
