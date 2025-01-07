@@ -32,11 +32,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/https://twitter.com/sarojmishraaa" target="blank">
+  <a href="https://twitter.com/https://twitter.com/sarojmishraa" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sarojmishraaa" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/saroj-mishray/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saroj-mishray/" height="30" width="40" />
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarojmishraa/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarojmishraa/" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23488431/saroj-mishra" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23488431/saroj-mishra" height="30" width="40" />
@@ -44,10 +44,10 @@
   <a href="https://kaggle.com/https://www.kaggle.com/sarojmishra1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sarojmishra1" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/y.uvrajm" target="blank">
+  <a href="https://instagram.com/https://www.instagram.com/mishra.yuvrajj" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/y.uvrajm" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/sarojmishra1/" target="blank">
+  <a href="https://www.leetcode.com/https://leetcode.com/sarojmishraa/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sarojmishra1/" height="30" width="40" />
   </a>
 </p>
