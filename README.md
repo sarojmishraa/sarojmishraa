@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src=""> 
+  <img src="https://github.com/sarojmishraa/sarojmishraa/blob/main/banner.png"> 
 </div>
 
 <h1 align="center">Hi 👋, I'm Saroj Mishra</h1>
