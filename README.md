@@ -1,87 +1,209 @@
-<div align="center">
+ <div align="center">
 
 # Hey, I'm Saroj Mishra 👋
 
-**Data Engineer · Software Engineer**
+### Product Engineer · Software Engineer · Backend & Systems
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sarojmishraa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarojmishraa)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/isarojmishraa)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=LeetCode&logoColor=black)](https://www.leetcode.com/sarojmishraa)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=flat&logo=googledrive)](https://drive.google.com/file/d/1HpCSeHpjEdNbM7ZJHbFAZX5SNA3_4YqM/view?usp=drive_link)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Products%2C+Not+Just+Features;Turning+Ideas+Into+Scalable+Software;Engineering+Reliable+Backend+Systems;Java+%7C+Golang+%7C+Python+%7C+Cloud;Product+Thinking+%2B+Engineering+Execution" alt="Animated typing introduction"/>
+
+<br/>
+
+<a href="https://linkedin.com/in/sarojmishraa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/sarojmishraa"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/sarojmishraa"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://medium.com/isarojmishraa"><img src="https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1HpCSeHpjEdNbM7ZJHbFAZX5SNA3_4YqM/view"><img src="https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sarojmishraa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **Data Engineer & Software Engineer** who designs and builds scalable data infrastructure and the backend systems that power it. From high-throughput ingestion pipelines to production-grade APIs, I work across the full data + engineering stack.
+I'm a **Product-minded Software Engineer** passionate about transforming ideas and real-world problems into scalable, reliable software products.
 
-- 🔭 Currently building **BlinkCMS** and working on **Big Data Pipelines & Distributed Systems**
-- 🌱 Deepening expertise in **Hadoop** and **Cloud Data Platforms**
-- 🤝 Open to collaborating on **ETL/ELT Architecture**, **Data Platform Engineering**, and **Backend Systems**
-- 💡 Ask me about **SQL · Python · Spark · Kafka · Airflow · Data Warehousing · REST APIs**
-- ✨ Fun fact: I genuinely enjoy debugging complex pipeline failures and making ugly data clean
+I enjoy working across the engineering lifecycle — understanding product requirements, designing technical solutions, building backend services, integrating systems, and delivering production-ready applications.
 
----
+My interests sit at the intersection of **Product Engineering, Backend Development, System Design, Distributed Systems, and Data Engineering**.
 
-## 🛠️ Tech Stack
+I believe great engineering goes beyond writing code. It's about understanding the problem, making thoughtful technical decisions, and building solutions that create meaningful value.
 
-### Data Engineering & Pipelines
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-
-### Data Warehousing & Databases
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
-### Languages & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-### Infrastructure & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- 🚀 Building software products from ideas to production.
+- ⚙️ Designing backend services, APIs, and scalable architectures.
+- 🧩 Translating product requirements into engineering solutions.
+- ☁️ Exploring cloud infrastructure and distributed systems.
+- 📊 Working with data platforms, messaging, and database technologies.
+- 🌱 Continuously learning, experimenting, and improving.
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Engineering Philosophy
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarojmishraa&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarojmishraa&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarojmishraa&theme=tokyonight&hide_border=true"/>
+| Product Thinking | Engineering Execution |
+|:---:|:---:|
+| Understand the problem | Design the architecture |
+| Focus on user value | Write maintainable code |
+| Prioritize meaningful features | Build reliable systems |
+| Iterate based on feedback | Measure and improve |
+
 </div>
 
 ---
 
-## 📬 Get in Touch
+## 🛠️ Technology Stack
 
-| | |
-|---|---|
-| 📧 Personal | isarojmishraa@gmail.com |
-| 📧 Personal | saroj@sunspica.com |
-| 💼 LinkedIn | [linkedin.com/in/sarojmishraa](https://linkedin.com/in/sarojmishraa) |
-| 📄 Resume | [View here](https://drive.google.com/file/d/1HpCSeHpjEdNbM7ZJHbFAZX5SNA3_4YqM/view?usp=drive_link) |
+### Programming Languages
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=java,go,python,js,ts,scala&perline=8" />
+</div>
+
+### Backend & Application Engineering
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express&perline=8" />
+</div>
+
+`Spring Boot` · `Spring Security` · `Spring Data JPA` · `Hibernate` · `JDBC` · `Servlets` · `REST APIs` · `Gin`
+
+### Databases & Messaging
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&perline=8" />
+</div>
+
+`PostgreSQL` · `Redis` · `SQL` · `Apache Kafka` · `ETL`
+
+### Frontend & Product Interfaces
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=8" />
+</div>
+
+### Cloud, Infrastructure & DevOps
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,bash&perline=8" />
+</div>
+
+### Testing & Observability
+
+`JUnit` · `Grafana` · `Postman` · `Structured Logging` · `API Testing`
 
 ---
 
+## 🚀 What I'm Building & Exploring
+
+**Product Engineering**
+
+Turning business requirements and real-world problems into useful software products.
+
+**Backend Engineering**
+
+Building APIs, business logic, database-driven applications, and scalable services.
+
+**Distributed Systems**
+
+Exploring event-driven architecture, messaging systems, service communication, and reliability.
+
+**Data Engineering**
+
+Working with data processing, ETL workflows, messaging, and data infrastructure.
+
+**Cloud-Native Engineering**
+
+Exploring AWS, Docker, Kubernetes, deployment automation, and infrastructure.
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarojmishraa&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarojmishraa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarojmishraa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=sarojmishraa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarojmishraa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sarojmishraa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sarojmishraa/sarojmishraa/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with software engineers, product builders, founders, and people working on meaningful technology.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sarojmishraa">
+<img src="https://img.shields.io/badge/LinkedIn-Saroj%20Mishra-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:isarojmishraa@gmail.com">
+<img src="https://img.shields.io/badge/Email-Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="mailto:saroj@sunspica.com">
+<img src="https://img.shields.io/badge/Sunspica-Email-16A34A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/isarojmishraa">
+<img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium"/>
+</a>
+
+<a href="https://leetcode.com/sarojmishraa">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<br/><br/>
+
+### Think in products. Engineer with purpose. Build for scale.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=120&section=footer" width="100%"/>
+
 </div>
